@@ -33,7 +33,6 @@ I use **C++** and **Python** to keep my understanding of low-level logic and dat
 | **Android** | **Earn It** | `Building` | A productivity app that gamifies your to-do list. |
 | **Android** | **NeuroNote** | `Designing` | Digital wellness and focus tracking. |
 | **Unity** | **Jump Knight** | `Complete` | 2D/3D mechanics exploration. |
-| **Core** | **Image Processing** | `Researching` | CNNs & Enhancement algorithms. |
 
 <br>
 
